@@ -25,3 +25,4 @@ database.sqlite
 .react-router/
 
 package-lock.json
+.DS_Store
